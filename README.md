@@ -16,6 +16,7 @@
 ## 🎯 Problem Statement  
 Millions of deaf and mute individuals use sign language to express themselves, but most people around them can’t understand it. This communication barrier creates daily challenges. **Signify** tackles this problem by providing an accessible, real-time translation system to promote inclusivity.
 
+
 ---
 
 ## 🗝️ Key Features  
